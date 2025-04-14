@@ -33,13 +33,18 @@
         <img width="64px" alt="LinkedIn" title="Connect with me on LinkedIn" src="static/social-icons/linkedin.gif"/>
     </a>
     &emsp;
-    <a target="_blank" href="https://www.instagram.com/your_instagram_username">
+    <a target="_blank" href="https://www.instagram.com/mohamed_yehiya_koita">
         <img width="64px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.gif"/>
     </a>
     &emsp;
-    <a target="_blank" href="https://your-third-network-url.com">
-        <img width="64px" alt="Other Network" title="Visit my other network" src="static/social-icons/other.gif"/>
+      <a target="_blank" href="mailto:mohamedyehiyakoita@gmail.com">
+        <img width="64px" alt="Email" title="send me an email" src="static/social-icons/mail.gif"/>
     </a>
+    &emsp;
+     <a target="_blank" href="https://mohamedyehiyakoita.netlify.app/">
+        <img width="64px" alt="Www" title="Take a look at my portfolio" src="static/social-icons/www.gif"/>
+    </a>
+   
 </p>
 
 <br/><br/>
@@ -51,7 +56,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,flutter" />
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,nodejs,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,realm,vscode,git,github,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode,git,github,postman,chatgpt" /><br>
 </div>
 
 <br/><br/><br/><hr/><br/><br/>
