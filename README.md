@@ -22,7 +22,7 @@
 
 <div align="center">
     🌱 I’m currently learning **Spring Boot & Flutter**<br/><br/>
-    💬 Ask me about **React Native, Angular, Node.js, Laravel, Realm, or anything dev-related**<br/><br/>
+    💬 Ask me about **Expo, Angular, Node.js, Laravel, or anything dev-related**<br/><br/>
     ⚡ All of my projects are available here
 </div>
 
@@ -65,7 +65,7 @@
 <br />
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MYK-OTAKU" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=MYK-OTAKU&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 <br />
